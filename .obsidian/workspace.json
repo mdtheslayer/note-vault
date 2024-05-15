@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "test2.md",
+                "file": "files/files1.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "test2.md",
+                "file": "files/files1.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "test2.md",
+                "file": "files/files1.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "test2.md"
+                "file": "files/files1.md"
               }
             }
           }
@@ -146,10 +146,11 @@
       "command-palette:Открыть палитру команд": false
     }
   },
-  "active": "07ff3ceb47fe1471",
+  "active": "7d59910f57167db6",
   "lastOpenFiles": [
     "test2.md",
-    "test2.md",
+    "files/files1.md",
+    "files",
     "test.md",
     "Welcome.md"
   ]
