@@ -11,8 +11,12 @@
             "id": "07ff3ceb47fe1471",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "files/plantuml-test.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -81,6 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "files/plantuml-test.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "files/plantuml-test.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -119,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "files/files1.md"
+                "file": "files/plantuml-test.md"
               }
             }
           }
@@ -140,8 +146,10 @@
       "command-palette:Открыть палитру команд": false
     }
   },
-  "active": "7d59910f57167db6",
+  "active": "07ff3ceb47fe1471",
   "lastOpenFiles": [
+    "files/mindmap-test.md",
+    "files/plantuml-test.md",
     "test2.md",
     "files/files1.md",
     "files",
