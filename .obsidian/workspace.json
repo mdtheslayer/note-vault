@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "75b5a0a0cd1ea72a",
+        "id": "24da3c82c2cbb2e0",
         "type": "tabs",
         "children": [
           {
-            "id": "07ff3ceb47fe1471",
+            "id": "24949f116c274a64",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "files/plantuml-test.md",
+                "file": "Т-РОСТ Заявка.md",
                 "mode": "source",
                 "source": false
               }
@@ -65,11 +65,12 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 200
   },
   "right": {
     "id": "9c1a610d7cc1aa57",
@@ -85,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "files/plantuml-test.md",
+                "file": "Т-РОСТ Заявка.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "files/plantuml-test.md",
+                "file": "Т-РОСТ Заявка.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,8 +126,16 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "files/plantuml-test.md"
+                "file": "Т-РОСТ Заявка.md"
               }
+            }
+          },
+          {
+            "id": "81e16709c120d929",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {}
             }
           }
         ]
@@ -143,17 +152,43 @@
       "canvas:Создать новый холст": false,
       "daily-notes:Сегодняшняя заметка": false,
       "templates:Вставить шаблон": false,
-      "command-palette:Открыть палитру команд": false
+      "command-palette:Открыть палитру команд": false,
+      "templater-obsidian:Templater": false,
+      "obsidian-book-search-plugin:Create new book note": false,
+      "periodic-notes:Open today": false
     }
   },
-  "active": "07ff3ceb47fe1471",
+  "active": "24949f116c274a64",
   "lastOpenFiles": [
+    "Т-РОСТ Заявка.md",
+    "files/ИНК - необходимые исправления.md",
+    "templates/note.md",
+    "2024-05-15kek.md",
+    "files/job/sme/2024-05-15.md",
+    "files/job/sme",
+    "files/job",
+    "files",
+    "files/job",
     "files/mindmap-test.md",
+    "Без названия.canvas",
+    "Без названия.md",
+    "templates/note template.md",
+    "templates/ID.md",
+    "Жесть.md",
+    "жЕСТЬ.md",
+    "SDFSDF.md",
     "files/plantuml-test.md",
+    "templates/research-and-development.md",
+    "templates/architecture-decision-record.md",
+    "0005-example.md",
+    "templates/template.md",
+    "test.md",
+    "templates/template1.md",
+    "templates/Без названия.canvas",
+    "templates",
     "test2.md",
     "files/files1.md",
     "files",
-    "test.md",
     "Welcome.md"
   ]
 }

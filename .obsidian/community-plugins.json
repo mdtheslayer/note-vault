@@ -1,5 +1,13 @@
 [
   "obsidian-git",
   "obsidian-mind-map",
-  "obsidian-plantuml"
+  "obsidian-plantuml",
+  "templater-obsidian",
+  "obsidian-book-search-plugin",
+  "calendar",
+  "dataview",
+  "obsidian-frontmatter-tag-suggest",
+  "periodic-notes",
+  "update-time-on-edit",
+  "obsidian-wikipedia"
 ]

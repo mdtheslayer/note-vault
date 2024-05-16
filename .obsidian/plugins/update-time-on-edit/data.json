@@ -1,0 +1,14 @@
+{
+  "dateFormat": "yyyy-MM-dd'T'HH:mm",
+  "enableCreateTime": true,
+  "headerUpdated": "updated",
+  "headerCreated": "created",
+  "minMinutesBetweenSaves": 1,
+  "ignoreGlobalFolder": [],
+  "ignoreCreatedFolder": [],
+  "enableExperimentalHash": false,
+  "fileHashMap": {
+    "files/ИНК - необходимые исправления.md": "deea10f1e2636968079c4212d8ce127f1cba58538836d52955ebbce675fe1e38",
+    "Т-РОСТ Заявка.md": "a2cc777c41a2be7c8f55aba3cb03358c0c4e742ac3d327a7db2f5450c4988702"
+  }
+}
