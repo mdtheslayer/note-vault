@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Т-РОСТ Заявка.md",
+                "file": "files/ИНК - необходимые исправления.md",
                 "mode": "source",
                 "source": false
               }
@@ -65,8 +65,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -86,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Т-РОСТ Заявка.md",
+                "file": "files/ИНК - необходимые исправления.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Т-РОСТ Заявка.md",
+                "file": "files/ИНК - необходимые исправления.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Т-РОСТ Заявка.md"
+                "file": "files/ИНК - необходимые исправления.md"
               }
             }
           },
@@ -160,9 +159,10 @@
   },
   "active": "24949f116c274a64",
   "lastOpenFiles": [
-    "Т-РОСТ Заявка.md",
+    "Роли и ответственность в x-sell-hub.md",
     "files/ИНК - необходимые исправления.md",
     "templates/note.md",
+    "Т-РОСТ Заявка.md",
     "2024-05-15kek.md",
     "files/job/sme/2024-05-15.md",
     "files/job/sme",
