@@ -4,22 +4,45 @@
     "type": "split",
     "children": [
       {
-        "id": "24da3c82c2cbb2e0",
-        "type": "tabs",
+        "id": "a9d29395a6e12e04",
+        "type": "split",
         "children": [
           {
-            "id": "24949f116c274a64",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "files/ИНК - необходимые исправления.md",
-                "mode": "source",
-                "source": false
+            "id": "3a9bba598b2d639a",
+            "type": "tabs",
+            "dimension": 44.79166666666667,
+            "children": [
+              {
+                "id": "0868f5564e152682",
+                "type": "leaf",
+                "state": {
+                  "type": "mindmap",
+                  "state": {}
+                }
               }
-            }
+            ]
+          },
+          {
+            "id": "24da3c82c2cbb2e0",
+            "type": "tabs",
+            "dimension": 55.208333333333336,
+            "children": [
+              {
+                "id": "24949f116c274a64",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "Инсайды по конфигурации toos.md",
+                    "mode": "source",
+                    "source": true
+                  }
+                }
+              }
+            ]
           }
-        ]
+        ],
+        "direction": "horizontal"
       }
     ],
     "direction": "vertical"
@@ -85,7 +108,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "files/ИНК - необходимые исправления.md",
+                "file": "Инсайды по конфигурации toos.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +125,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "files/ИНК - необходимые исправления.md",
+                "file": "Инсайды по конфигурации toos.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +148,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "files/ИНК - необходимые исправления.md"
+                "file": "Инсайды по конфигурации toos.md"
               }
             }
           },
@@ -159,8 +182,9 @@
   },
   "active": "24949f116c274a64",
   "lastOpenFiles": [
-    "Роли и ответственность в x-sell-hub.md",
+    "Инсайды по конфигурации toos.md",
     "files/ИНК - необходимые исправления.md",
+    "Роли и ответственность в x-sell-hub.md",
     "templates/note.md",
     "Т-РОСТ Заявка.md",
     "2024-05-15kek.md",
