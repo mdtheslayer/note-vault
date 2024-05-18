@@ -4,13 +4,13 @@
     "type": "split",
     "children": [
       {
-        "id": "a9d29395a6e12e04",
+        "id": "950103043ba9061b",
         "type": "split",
         "children": [
           {
             "id": "3a9bba598b2d639a",
             "type": "tabs",
-            "dimension": 44.791666666666664,
+            "dimension": 73.01587301587301,
             "children": [
               {
                 "id": "0868f5564e152682",
@@ -23,17 +23,17 @@
             ]
           },
           {
-            "id": "24da3c82c2cbb2e0",
+            "id": "e669130cfe981693",
             "type": "tabs",
-            "dimension": 55.20833333333333,
+            "dimension": 26.984126984126984,
             "children": [
               {
-                "id": "24949f116c274a64",
+                "id": "4759756acfcfeb0d",
                 "type": "leaf",
                 "state": {
                   "type": "markdown",
                   "state": {
-                    "file": "Инсайды по конфигурации toos.md",
+                    "file": "Платформизация toos.md",
                     "mode": "source",
                     "source": true
                   }
@@ -71,7 +71,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "tag:#platform",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -88,7 +88,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -108,7 +109,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Инсайды по конфигурации toos.md",
+                "file": "Платформизация toos.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -125,7 +126,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Инсайды по конфигурации toos.md",
+                "file": "Платформизация toos.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -148,7 +149,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Инсайды по конфигурации toos.md"
+                "file": "Платформизация toos.md"
               }
             }
           },
@@ -180,9 +181,10 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "24949f116c274a64",
+  "active": "4759756acfcfeb0d",
   "lastOpenFiles": [
     "Инсайды по конфигурации toos.md",
+    "Платформизация toos.md",
     "files/ИНК - необходимые исправления.md",
     "Роли и ответственность в x-sell-hub.md",
     "templates/note.md",
