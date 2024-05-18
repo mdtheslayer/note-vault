@@ -33,7 +33,7 @@
                 "state": {
                   "type": "markdown",
                   "state": {
-                    "file": "Платформизация toos.md",
+                    "file": "files/Инсайды по конфигурации toos.md",
                     "mode": "source",
                     "source": true
                   }
@@ -88,8 +88,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -109,7 +108,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Платформизация toos.md",
+                "file": "files/Инсайды по конфигурации toos.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -126,7 +125,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Платформизация toos.md",
+                "file": "files/Инсайды по конфигурации toos.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -149,7 +148,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Платформизация toos.md"
+                "file": "files/Инсайды по конфигурации toos.md"
               }
             }
           },
@@ -181,14 +180,14 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "4759756acfcfeb0d",
+  "active": "7d59910f57167db6",
   "lastOpenFiles": [
-    "Инсайды по конфигурации toos.md",
-    "Платформизация toos.md",
+    "files/Платформизация toos.md",
+    "files/Инсайды по конфигурации toos.md",
     "files/ИНК - необходимые исправления.md",
-    "Роли и ответственность в x-sell-hub.md",
+    "files/Роли и ответственность в x-sell-hub.md",
     "templates/note.md",
-    "Т-РОСТ Заявка.md",
+    "files/Т-РОСТ Заявка.md",
     "2024-05-15kek.md",
     "files/job/sme/2024-05-15.md",
     "files/job/sme",
