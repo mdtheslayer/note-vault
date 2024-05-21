@@ -5,27 +5,34 @@ tags:
 aliases: 
 created: 2024-05-03, 14:50
 modified: 2024-05-03, 14:50
-updated: 2024-05-18T16:19
+updated: 2024-05-20T21:52
 ---
 
 # Платформизация toos
 
-- Resiliency 
+- Resiliency(Восстановление/Устойчивость к сбоям)
 	- Leader Election флинк
 	- Геораспределенность (2-датацентра)
 	- Archivability
 		- Выгрузка в sdp
-- Durability
+- Durability (Долговечность)
 	- Fault tolerance
 		- Восстановление процессов
 		- Восстановление шагов
 		- DLQ
 		- TTL Entity Cassandra
-- Configurability
+- Configurability (Конфигурируемость)
 	- Конфигурирование стратегий
-		- Выбор доступных продуктов по сценарию
+		- Выбор доступных продуктов для сценария
+			- Экспертно на основании бизнес-правил
+			- На основании ML
 		- Выбор приоритета/скорости стратегии
-		- Выбор сценария расчета
+		- Выбор триггеров для старта сценария расчета
+			- На основании source
+			- Приоритизация триггеров между собой???
+				- Актуально ли для рисковых триггеров? 
+				- На основании веса триггера
+				- На основании ML
 		- Создание сценария расчета
 			- External task node
 			- Decision node
@@ -34,6 +41,8 @@ updated: 2024-05-18T16:19
 			- Source node
 			- Parralell gateway node
 			- Notification node
+		- Подстановка variable под request
+			- Map <String, Any>
 	- Compatibility(Совместимость)
 		- Проверка стратегий
 		- Перенос стратегий между контурами
@@ -41,24 +50,76 @@ updated: 2024-05-18T16:19
 		- Уведомления
 			- time
 			- email
+	- Конфигурирование источников
+		- Подключение топиков kafka
+		- Подключение data source
+		- Flink Table API & SQL
+		- Контролирование потока по источнику
+			- Включение/Выключение
+			- Процент проходящего трафика
+	- Конфигрурирование сплита в рамках теста
+		- Statist
+			- Просмотр аналитики
+			- Конфигурирование количества выборки в рамках групп
 - Maintainability
 	- Тестирование стратегий
 	- Тестирование конфигураций
 		- Линтеры
 		- Конструкторы ui
+	- Появление metadata по офферу
+		- ключ dco_general_id
 - Observability
 	- Alerts & Monitoring
 		- SLI
 			- Время выполнения процесса
 			- Время выполнения шага
+			- Количество протухших процессов
 			- Количество технически ошибочных процессов
-			- Количество технически ошибочных по технике шагов
+			- Количество технически ошибочных шагов
 			- Все SLI Business Critical для процессов расчета
 			- Все SLI Business Critical + для процессов удаления
+		- SLA нижестоящих систем
+			- PSAS
+			- DED
+			- DCO
+			- COMMON-API
+			- COMPLIANCE-API
+			- SME-CREDIT-SCORING
+			- COLD-SALES-MASTER
+			- OFFER-STORAGE
 	 - Maturity Model
 		 - L1
 		 - L2
 		 - L3
+- Stakeholders И/ИЛИ использующие систему
+	- В людях
+		- Product owner
+		- Data analyst
+		- Product analyst
+		- Business analyst
+		- Product manager
+		- Solution architect
+		- System analyst
+	- Продукты
+		- КН*
+		- КК
+		- POS
+		- Некредитные продукты
+		- Портфельные команды
+	 - Каналы
+		 - Magent
+		 - TinkoffId
+		 - Tsales
+		 - Mobile
+	- Бизнес-процессы
+		- Экосистемное кредитование
+		- X-SELL
+- OKR
+	- Увеличение линейки продуктов в TOOS
+		- Зависимости 
+			- Configurability 
+			- Observability
+			- Maintainability
 
 
 ---
@@ -83,6 +144,7 @@ updated: 2024-05-18T16:19
 	- [Конфуций от RISKTECH](https://wiki.tcsbank.ru/pages/viewpage.action?pageId=2068176230)
 	- Flink sql api
 - Что нужно с технической точки зрения? Зайти к Вове, Коле
+- Как определять ценность?
 
 ## Terms
 <!-- Links to definition pages -->

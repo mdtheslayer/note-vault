@@ -4,22 +4,45 @@
     "type": "split",
     "children": [
       {
-        "id": "64cebae62255ea67",
-        "type": "tabs",
+        "id": "41617a1950162144",
+        "type": "split",
         "children": [
           {
-            "id": "672e8064e5a1e2c9",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "files/Т-РОСТ Заявка.md",
-                "mode": "source",
-                "source": false
+            "id": "72c42e6bc434b8b3",
+            "type": "tabs",
+            "dimension": 22.22222222222222,
+            "children": [
+              {
+                "id": "d4d70d84a0b5c9df",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "files/Платформизация toos.md",
+                    "mode": "source",
+                    "source": true
+                  }
+                }
               }
-            }
+            ]
+          },
+          {
+            "id": "805da8da62756f83",
+            "type": "tabs",
+            "dimension": 77.77777777777779,
+            "children": [
+              {
+                "id": "9434d026057d47c0",
+                "type": "leaf",
+                "state": {
+                  "type": "mindmap",
+                  "state": {}
+                }
+              }
+            ]
           }
-        ]
+        ],
+        "direction": "horizontal"
       }
     ],
     "direction": "vertical"
@@ -69,7 +92,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 200
   },
   "right": {
     "id": "8efc5757219ae35d",
@@ -85,7 +108,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "files/Т-РОСТ Заявка.md",
+                "file": "files/Платформизация toos.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +125,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "files/Т-РОСТ Заявка.md",
+                "file": "files/Платформизация toos.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +148,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "files/Т-РОСТ Заявка.md"
+                "file": "files/Платформизация toos.md"
               }
             }
           },
@@ -157,11 +180,12 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "672e8064e5a1e2c9",
+  "active": "d4d70d84a0b5c9df",
   "lastOpenFiles": [
-    "files/Роли и ответственность в x-sell-hub.md",
-    "files/Т-РОСТ Заявка.md",
+    "2024-05-20.md",
     "files/Платформизация toos.md",
+    "files/Т-РОСТ Заявка.md",
+    "files/Роли и ответственность в x-sell-hub.md",
     "templates/note.md",
     "templates",
     "files/Инсайды по конфигурации toos.md",
